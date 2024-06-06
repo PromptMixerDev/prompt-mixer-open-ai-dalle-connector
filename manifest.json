@@ -1,0 +1,11 @@
+{
+  "id": "prompt-mixer-open-ai-dalle",
+  "name": "Open AI Connector",
+  "version": "1.0.9",
+  "minAppVersion": "0.1.0",
+  "description": "The DALL-E Connector enables generating images from textual descriptions using OpenAI's DALL-E model.",
+  "author": "Prompt Mixer",
+  "authorUrl": "https://promptmixer.dev",
+  "fundingUrl": "https://promptmixer.dev/pricing",
+  "isDesktopOnly": false
+}
