@@ -85,7 +85,7 @@ async function main(
           });
 
         const responseToMarkdown = imageResponse.data.map(
-          (res) => `![${res.revised_prompt}](${res.url})`,
+          (res) => `![${res.revised_prompt || userPrompt}](${res.url})`,
         );
 
         console.log(responseToMarkdown);
