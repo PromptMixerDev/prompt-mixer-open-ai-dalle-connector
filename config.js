@@ -1,5 +1,5 @@
 export const config = {
-  connectorName: 'OpenAIDallE',
+  connectorName: 'OpenAI DallE Connector',
   connectorVersion: '1.0.0',
   models: ['dall-e-3', 'dall-e-2'],
   description:
