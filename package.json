@@ -20,7 +20,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "builtin-modules": "^4.0.0",
+    "builtin-modules": "^5.0.0",
     "esbuild": "^0.24.2",
     "openai": "^4.85.4"
   },
