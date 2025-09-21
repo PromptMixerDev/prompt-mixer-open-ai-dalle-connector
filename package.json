@@ -22,7 +22,7 @@
   "dependencies": {
     "builtin-modules": "^5.0.0",
     "esbuild": "^0.25.9",
-    "openai": "^5.20.0"
+    "openai": "^5.20.2"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^8.42.0",
