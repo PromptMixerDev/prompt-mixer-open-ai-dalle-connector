@@ -21,7 +21,7 @@
   "license": "ISC",
   "dependencies": {
     "builtin-modules": "^5.0.0",
-    "esbuild": "^0.25.11",
+    "esbuild": "^0.25.12",
     "openai": "^6.7.0"
   },
   "devDependencies": {
